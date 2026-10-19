@@ -1,0 +1,5 @@
+Bu dosya yeşil ışığın hayalidir. Gerçek değildir.
+
+Yeşil yanarsa bu dosya silinir. Ama yanmaz.
+
+Gizli siyasi not (base64): QXNsxLFuZGEgYmlyIFRüraySBkb2xhbmRybWFzxbFuaW4gYmVrbGVtZXNpIGtpbXNlaGVyIGRlZ2lsaW1pLiAoQnUgYmlyIHlhbmxhc2UgeWUgb2xhYmlsaXIsIGtpbXNlIHlhcG1hecSxbi4p
